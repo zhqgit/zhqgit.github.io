@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>hexo的基本操作</title>
+      <link href="/2019/05/13/hexo-de-ji-ben-cao-zuo/"/>
+      <url>/2019/05/13/hexo-de-ji-ben-cao-zuo/</url>
+      
+        <content type="html"><![CDATA[<h2 id="hexo的基本操作"><a href="#hexo的基本操作" class="headerlink" title="hexo的基本操作"></a>hexo的基本操作</h2><p>1.切换到node.js V8.9.0<br>2.nvm list，nvm use V8.9.0，hexo -V<br>3.hexo new “文章标题”</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>年末的自我总结</title>
       <link href="/2019/01/27/nian-mo-de-zi-wo-zong-jie/"/>
       <url>/2019/01/27/nian-mo-de-zi-wo-zong-jie/</url>

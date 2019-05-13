@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhqgit.github.io/"/>
-  <updated>2019-01-27T10:00:49.048Z</updated>
+  <updated>2019-05-13T07:42:29.895Z</updated>
   <id>https://zhqgit.github.io/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hexo的基本操作</title>
+    <link href="https://zhqgit.github.io/2019/05/13/hexo-de-ji-ben-cao-zuo/"/>
+    <id>https://zhqgit.github.io/2019/05/13/hexo-de-ji-ben-cao-zuo/</id>
+    <published>2019-05-13T07:34:49.000Z</published>
+    <updated>2019-05-13T07:42:29.895Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;hexo的基本操作&quot;&gt;&lt;a href=&quot;#hexo的基本操作&quot; class=&quot;headerlink&quot; title=&quot;hexo的基本操作&quot;&gt;&lt;/a&gt;hexo的基本操作&lt;/h2&gt;&lt;p&gt;1.切换到node.js V8.9.0&lt;br&gt;2.nvm list，nvm use
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://zhqgit.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://zhqgit.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="hexo" scheme="https://zhqgit.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>年末的自我总结</title>
     <link href="https://zhqgit.github.io/2019/01/27/nian-mo-de-zi-wo-zong-jie/"/>
     <id>https://zhqgit.github.io/2019/01/27/nian-mo-de-zi-wo-zong-jie/</id>
     <published>2019-01-27T09:21:21.000Z</published>
-    <updated>2019-01-27T10:00:49.048Z</updated>
+    <updated>2019-01-27T10:09:11.216Z</updated>
     
     <summary type="html">
     
