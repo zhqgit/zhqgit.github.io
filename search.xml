@@ -8,7 +8,7 @@
       <link href="/2019/05/13/hexo-de-ji-ben-cao-zuo/"/>
       <url>/2019/05/13/hexo-de-ji-ben-cao-zuo/</url>
       
-        <content type="html"><![CDATA[<h2 id="hexo的基本操作"><a href="#hexo的基本操作" class="headerlink" title="hexo的基本操作"></a>hexo的基本操作</h2><p>1.切换到node.js V8.9.0<br>2.nvm list，nvm use V8.9.0，hexo -V<br>3.hexo new “标题”<br>4.hexo g生成静态文件<br>5.hexo d部署静态文件</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="hexo的基本操作"><a href="#hexo的基本操作" class="headerlink" title="hexo的基本操作"></a>hexo的基本操作</h2><p>1.切换到node.js V8.9.0<br>2.nvm list，nvm use V8.9.0，hexo -V<br>3.hexo new “标题”<br>4.hexo g生成静态文件<br>5.hexo d部署静态文件</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>1.图片应该要放到主题文件夹/source/images，这个文件夹里面，避免每次hexo clean被删除<br>2.文章图片高度统一为640px</p>]]></content>
       
       
       <categories>
