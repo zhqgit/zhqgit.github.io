@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>windows系统常用快捷键</title>
+      <link href="/2019/06/18/windows-xi-tong-chang-yong-kuai-jie-jian/"/>
+      <url>/2019/06/18/windows-xi-tong-chang-yong-kuai-jie-jian/</url>
+      
+        <content type="html"><![CDATA[<h2 id="windows系统常用快捷键"><a href="#windows系统常用快捷键" class="headerlink" title="windows系统常用快捷键"></a>windows系统常用快捷键</h2><ol><li><p>【Windows键 + D】高手们常用的键，瞬间回到桌面。</p></li><li><p>【Windows键 + E】直接打开“我的电脑”。</p></li><li><p>【Windows键 + L】电脑锁屏，不用担心隐私外泄。</p></li><li><p>【Windows键 + R】再输入osk，点“运行”，立刻弹出虚拟键盘。</p></li><li><p>【Ctrl + Tab】快速切换浏览器选项卡。</p></li><li><p>【Alt + F4】快速关闭当前程序；在桌面用则调出关机选项。</p></li><li><p>【Ctrl + F】快速查找电脑里的文件，类似于网络中的搜索引擎。</p></li><li><p>玩游戏时突然有人来，按【Alt + Tab】，立马切换窗口。</p></li><li><p>浏览网页或图片时，按【F11】即实现全屏清晰浏览。</p></li><li><p>【Ctrl + C】复制；【Ctrl + V】 粘贴。</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+            <tag> 系统 </tag>
+            
+            <tag> 快捷键 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>win10添加新用户</title>
       <link href="/2019/06/18/win10-tian-jia-xin-yong-hu/"/>
       <url>/2019/06/18/win10-tian-jia-xin-yong-hu/</url>
@@ -74,11 +103,11 @@
       
         <tags>
             
-            <tag> 技术 </tag>
-            
             <tag> win10 </tag>
             
             <tag> cmd </tag>
+            
+            <tag> 技术 </tag>
             
         </tags>
       
