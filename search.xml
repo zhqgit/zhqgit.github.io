@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>win10系统的笔记本开启和关闭自带键盘</title>
+      <link href="/2019/06/18/win10-xi-tong-de-bi-ji-ben-kai-qi-he-guan-bi-zi-dai-jian-pan/"/>
+      <url>/2019/06/18/win10-xi-tong-de-bi-ji-ben-kai-qi-he-guan-bi-zi-dai-jian-pan/</url>
+      
+        <content type="html"><![CDATA[<h2 id="win10系统的笔记本开启和关闭自带键盘"><a href="#win10系统的笔记本开启和关闭自带键盘" class="headerlink" title="win10系统的笔记本开启和关闭自带键盘"></a>win10系统的笔记本开启和关闭自带键盘</h2><p>1.管理员模式打开cmd<br>2.关闭：sc config i8042prt start= disabled<br>3.打开：sc config i8042prt start= auto</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>1.笔记本电脑自带键盘坏了，但是还有部分键可用。关掉自带键盘，使用外接键盘。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+            <tag> win10 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>清除DNS缓存的命令</title>
       <link href="/2019/06/12/hexo-de-ji-ben-cao-zuo/"/>
       <url>/2019/06/12/hexo-de-ji-ben-cao-zuo/</url>
