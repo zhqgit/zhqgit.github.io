@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>win10添加新用户</title>
+      <link href="/2019/06/18/win10-tian-jia-xin-yong-hu/"/>
+      <url>/2019/06/18/win10-tian-jia-xin-yong-hu/</url>
+      
+        <content type="html"><![CDATA[<h2 id="win10添加新用户"><a href="#win10添加新用户" class="headerlink" title="win10添加新用户"></a>win10添加新用户</h2><ol><li><p>用户列表<br>net user</p></li><li><p>添加用户和密码<br>net user 用户名 密码 /add</p></li><li><p>*添加用户后把用户添加到管理员组<br>net localgroup administrators 用户名 /add</p></li></ol><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ol><li>用户权限不够</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> win10 </tag>
+            
+            <tag> cmd </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>《只言片语》第一期摘录</title>
       <link href="/2019/06/18/zhi-yan-pian-yu-di-yi-qi-zhai-lu/"/>
       <url>/2019/06/18/zhi-yan-pian-yu-di-yi-qi-zhai-lu/</url>
@@ -50,6 +77,8 @@
             <tag> 技术 </tag>
             
             <tag> win10 </tag>
+            
+            <tag> cmd </tag>
             
         </tags>
       

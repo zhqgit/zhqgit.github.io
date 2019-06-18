@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhqgit.github.io/"/>
-  <updated>2019-06-18T02:26:20.609Z</updated>
+  <updated>2019-06-18T07:17:11.894Z</updated>
   <id>https://zhqgit.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>win10添加新用户</title>
+    <link href="https://zhqgit.github.io/2019/06/18/win10-tian-jia-xin-yong-hu/"/>
+    <id>https://zhqgit.github.io/2019/06/18/win10-tian-jia-xin-yong-hu/</id>
+    <published>2019-06-18T07:14:08.000Z</published>
+    <updated>2019-06-18T07:17:11.894Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;win10添加新用户&quot;&gt;&lt;a href=&quot;#win10添加新用户&quot; class=&quot;headerlink&quot; title=&quot;win10添加新用户&quot;&gt;&lt;/a&gt;win10添加新用户&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;用户列表&lt;br&gt;net
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://zhqgit.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="win10" scheme="https://zhqgit.github.io/tags/win10/"/>
+    
+      <category term="cmd" scheme="https://zhqgit.github.io/tags/cmd/"/>
+    
+  </entry>
   
   <entry>
     <title>《只言片语》第一期摘录</title>
@@ -49,7 +78,7 @@
     <link href="https://zhqgit.github.io/2019/06/18/win10-xi-tong-de-bi-ji-ben-kai-qi-he-guan-bi-zi-dai-jian-pan/"/>
     <id>https://zhqgit.github.io/2019/06/18/win10-xi-tong-de-bi-ji-ben-kai-qi-he-guan-bi-zi-dai-jian-pan/</id>
     <published>2019-06-18T01:54:37.000Z</published>
-    <updated>2019-06-18T01:58:40.390Z</updated>
+    <updated>2019-06-18T07:16:04.366Z</updated>
     
     <summary type="html">
     
@@ -69,6 +98,8 @@
       <category term="技术" scheme="https://zhqgit.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
       <category term="win10" scheme="https://zhqgit.github.io/tags/win10/"/>
+    
+      <category term="cmd" scheme="https://zhqgit.github.io/tags/cmd/"/>
     
   </entry>
   
