@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhqgit.github.io/"/>
-  <updated>2019-06-18T08:59:11.239Z</updated>
+  <updated>2019-06-24T07:30:52.917Z</updated>
   <id>https://zhqgit.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《只言片语》第二期摘录</title>
+    <link href="https://zhqgit.github.io/2019/06/24/zhi-yan-pian-yu-di-er-qi-zhai-lu/"/>
+    <id>https://zhqgit.github.io/2019/06/24/zhi-yan-pian-yu-di-er-qi-zhai-lu/</id>
+    <published>2019-06-24T02:34:32.000Z</published>
+    <updated>2019-06-24T07:30:52.917Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;《只言片语》第一期摘录&quot;&gt;&lt;a href=&quot;#《只言片语》第一期摘录&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="言论" scheme="https://zhqgit.github.io/categories/%E8%A8%80%E8%AE%BA/"/>
+    
+    
+      <category term="网络言论" scheme="https://zhqgit.github.io/tags/%E7%BD%91%E7%BB%9C%E8%A8%80%E8%AE%BA/"/>
+    
+      <category term="摘录" scheme="https://zhqgit.github.io/tags/%E6%91%98%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>windows系统常用快捷键</title>
@@ -126,11 +154,11 @@
       <category term="技术" scheme="https://zhqgit.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://zhqgit.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="win10" scheme="https://zhqgit.github.io/tags/win10/"/>
     
       <category term="cmd" scheme="https://zhqgit.github.io/tags/cmd/"/>
+    
+      <category term="技术" scheme="https://zhqgit.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
