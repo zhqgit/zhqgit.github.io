@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhqgit.github.io/"/>
-  <updated>2019-06-24T07:30:52.917Z</updated>
+  <updated>2019-07-12T09:11:24.475Z</updated>
   <id>https://zhqgit.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>拼多多规则</title>
+    <link href="https://zhqgit.github.io/2019/07/12/pin-duo-duo-gui-ze/"/>
+    <id>https://zhqgit.github.io/2019/07/12/pin-duo-duo-gui-ze/</id>
+    <published>2019-07-12T09:03:49.000Z</published>
+    <updated>2019-07-12T09:11:24.475Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;拼多多规则&quot;&gt;&lt;a href=&quot;#拼多多规则&quot; class=&quot;headerlink&quot; title=&quot;拼多多规则&quot;&gt;&lt;/a&gt;拼多多规则&lt;/h2&gt;&lt;p&gt;1.未发货时买家申请退款，要确保在发货时间内退款成功，否则会被判定为延迟发货&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://zhqgit.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://zhqgit.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="拼多多" scheme="https://zhqgit.github.io/tags/%E6%8B%BC%E5%A4%9A%E5%A4%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>《只言片语》第二期摘录</title>
@@ -154,11 +183,11 @@
       <category term="技术" scheme="https://zhqgit.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
+      <category term="技术" scheme="https://zhqgit.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
       <category term="win10" scheme="https://zhqgit.github.io/tags/win10/"/>
     
       <category term="cmd" scheme="https://zhqgit.github.io/tags/cmd/"/>
-    
-      <category term="技术" scheme="https://zhqgit.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
